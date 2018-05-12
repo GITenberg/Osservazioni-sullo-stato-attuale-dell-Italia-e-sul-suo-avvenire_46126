@@ -1,0 +1,32 @@
+_repo: Osservazioni-sullo-stato-attuale-dell-Italia-e-sul-suo-avvenire_46126
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46126-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Belgioioso, Cristina
+    aliases:
+    - Trivulzio, Cristina
+    - Belgioioso, Cristina Trivulzio di
+    - Trivulce de Belgiojoso, Christine
+    - Barbiano di Belgioioso, Cristina
+    birthdate: 1808
+    deathdate: 1871
+    gutenberg_agent_id: '31239'
+    url: http://www.gutenberg.org/2009/agents/31239
+description: ''
+gutenberg_bookshelf: IT Scienze politiche
+gutenberg_issued: '2014-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46126'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- History -- 1815-1870'
+- !lcc 'DG'
+title: Osservazioni sullo stato attuale dell'Italia e sul suo avvenire
+url: http://www.gutenberg.org/ebooks/46126
