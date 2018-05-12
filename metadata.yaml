@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '31239'
     url: http://www.gutenberg.org/2009/agents/31239
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46126#Osservazioni-sullo-stato-attuale-dell-Italia-e-sul-suo-avvenire
 gutenberg_bookshelf: IT Scienze politiche
 gutenberg_issued: '2014-06-28'
 gutenberg_type: Text
